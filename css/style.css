@@ -1,0 +1,28 @@
+body{
+	font-family: monospace
+}
+
+footer{
+	margin-top: 4%;
+	margin-bottom: 0%;
+	width: 100%;
+	background-color: #302f2f;
+	color: white;
+	text-align: center;
+}
+
+.gdi{
+	margin: 3.4%;
+}
+
+.texto{
+	text-align: justify;
+}
+
+.titulo{
+	margin: 3%;
+}
+
+.espaco{
+	margin-left: 8%;
+}
